@@ -1,0 +1,4 @@
+﻿  09_FishTank.cpp
+E:\SoftUni\C++\Programming Basics C++\First_Steps_Exercise\09_FishTank\09_FishTank.cpp(16,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\SoftUni\C++\Programming Basics C++\First_Steps_Exercise\09_FishTank\09_FishTank.cpp(18,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  09_FishTank.vcxproj -> E:\SoftUni\C++\Programming Basics C++\First_Steps_Exercise\01_USDToBGN\Debug\09_FishTank.exe

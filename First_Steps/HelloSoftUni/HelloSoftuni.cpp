@@ -1,0 +1,12 @@
+#include <iostream>
+
+using std::cout;
+using std::endl;
+
+int main()
+{
+	cout << "Hello SoftUni" << endl;
+	cout << "Something new" << endl;
+
+	return 0;
+}
